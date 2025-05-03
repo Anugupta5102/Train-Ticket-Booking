@@ -1,0 +1,122 @@
+[
+    {
+        "trainNumber": "12345",
+        "trainName": "Shatabdi Express",
+        "source": "Delhi",
+        "destination": "Lucknow",
+        "totalSeats": 100,
+        "availableSeats": 90,
+        "stationTimes": {
+            "Delhi": "08:00 AM",
+            "Lucknow": "01:00 PM"
+        }
+    },
+    {
+        "trainNumber": "67890",
+        "trainName": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "totalSeats": 120,
+        "availableSeats": 110,
+        "stationTimes": {
+            "Mumbai": "06:00 PM",
+            "Delhi": "08:00 AM"
+        }
+    },
+    {
+        "trainNumber": "24680",
+        "trainName": "Garib Rath",
+        "source": "Kolkata",
+        "destination": "Patna",
+        "totalSeats": 80,
+        "availableSeats": 80,
+        "stationTimes": {
+            "Kolkata": "07:00 AM",
+            "Patna": "12:00 PM"
+        }
+    },
+    {
+        "trainNumber": "13579",
+        "trainName": "Duronto Express",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "totalSeats": 75,
+        "availableSeats": 70,
+        "stationTimes": {
+            "Hyderabad": "09:00 AM",
+            "Chennai": "02:00 PM"
+        }
+    },
+    {
+        "trainNumber": "54321",
+        "trainName": "Goa Express",
+        "source": "Delhi",
+        "destination": "Goa",
+        "totalSeats": 90,
+        "availableSeats": 85,
+        "stationTimes": {
+            "Delhi": "10:00 AM",
+            "Goa": "06:00 PM"
+        }
+    },
+    {
+        "trainNumber": "98765",
+        "trainName": "Kanyakumari Express",
+        "source": "Bangalore",
+        "destination": "Kanyakumari",
+        "totalSeats": 100,
+        "availableSeats": 95,
+        "stationTimes": {
+            "Bangalore": "05:00 PM",
+            "Kanyakumari": "08:00 AM"
+        }
+    },
+    {
+        "trainNumber": "11223",
+        "trainName": "Howrah Express",
+        "source": "Ahmedabad",
+        "destination": "Howrah",
+        "totalSeats": 110,
+        "availableSeats": 105,
+        "stationTimes": {
+            "Ahmedabad": "04:00 PM",
+            "Howrah": "10:00 AM"
+        }
+    },
+    {
+        "trainNumber": "33445",
+        "trainName": "Punjab Mail",
+        "source": "Firozpur",
+        "destination": "Mumbai",
+        "totalSeats": 85,
+        "availableSeats": 80,
+        "stationTimes": {
+            "Firozpur": "06:00 AM",
+            "Mumbai": "08:00 PM"
+        }
+    },
+    {
+        "trainNumber": "55667",
+        "trainName": "Kamakhya Express",
+        "source": "Delhi",
+        "destination": "Guwahati",
+        "totalSeats": 95,
+        "availableSeats": 90,
+        "stationTimes": {
+            "Delhi": "07:00 PM",
+            "Guwahati": "09:00 AM"
+        }
+    },
+    {
+        "trainNumber": "77889",
+        "trainName": "Deccan Queen",
+        "source": "Pune",
+        "destination": "Mumbai",
+        "totalSeats": 70,
+        "availableSeats": 65,
+        "stationTimes": {
+            "Pune": "05:00 PM",
+            "Mumbai": "08:00 PM"
+        }
+    }
+]
